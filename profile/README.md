@@ -4,4 +4,4 @@ A Letter of Intent was submitted in December 2022 to the CERN SPSC ([CERN-SPSC-2
 
 Tracks produced in the interaction vertex are reconstructed in a vertex telescope immersed in a 1.5 T dipole field. An absorber filters out the hadrons, and muon tracks are then identified and reconstructed in a spectrometer, composed of six tracking stations and a magnet. A second absorber further reduces the contamination from the surviving hadronic background.
 
-Tracks reconstructed in the muon spectrometer are matched in momentum and coordinates to the corresponding tracks in the vertex spectrometer. With this procedure, a resolution of a few MeV can be reached for the reconstruction of the ω→μμ decay, and of a few tens MeV for the J/ψ→μμ channel
+Tracks reconstructed in the muon spectrometer are matched in momentum and coordinates to the corresponding tracks in the vertex spectrometer. With this procedure, a resolution of a few MeV can be reached for the reconstruction of the ω→μμ decay, and of a few tens MeV for the J/ψ→μμ channel.
